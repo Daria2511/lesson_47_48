@@ -61,3 +61,5 @@ while True:
         for i in range(len(notes)):
             if old_note in notes[i]:
                 del notes[i]
+
+    print()
